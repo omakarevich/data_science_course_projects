@@ -4,3 +4,4 @@ Here is my projects from online course "Data science"
 3) Choose region for oil development - Supervised learning, RMSE, confidence interval, Bootstrap, StandardScaler, LinearRegression.
 4) Prototype model for a metalworking company - Supervised learning, matplotlib, sMAPE, DecisionTreeRegressor, LinearRegression, RandomForestRegressor
 5) Algorithm for data protection - very short project, supervised learning, r2_score, matrix, LinearRegression.
+6) Car price prediction - Supervised learning, MSE, RandomForestRegressor, DecisionTreeRegressor, LGBMRegressor
