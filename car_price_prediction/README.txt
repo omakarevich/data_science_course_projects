@@ -4,6 +4,7 @@ Used car sales service is developing an application to attract new customers.
 
 In app, you can find out the market value of your car.
 
-Analyzed the data: technical characteristics, configuration and prices. 
+Result:
+- Analyzed the data: technical characteristics, configuration and prices. 
 
-A model is determine the cost of a used car.
+- A model is determine the cost of a used car.
