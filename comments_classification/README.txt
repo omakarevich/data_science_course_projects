@@ -2,6 +2,7 @@ Speed up the moderation of comments in the community by automating their toxicit
 
 Train the model to classify comments as positive and negative.
 
+Result:
 Analyzed a dataset with markup on the toxicity of edits.
 
 Texts are vectorized with Count and Tfidf.
