@@ -8,3 +8,4 @@ Here is my projects from online course "Data science"
 7) Predicting taxi orders - supervised learning, statsmodels, seasonal_decompose,  RandomForestRegressor, LinearRegression, DecisionTreeRegressor, LGBMRegressor.
 8) Comments сlassification - supervised learning, nltk, TfidfVectorizer, CatBoostClassifier, LGBMClassifier, DecisionTreeClassifier, RandomForestClassifier.
 9) To be continied...
+[a link](https://github.com/omakarevich/data_science_course_projects/tree/master/algorithm_for_data_protection)
