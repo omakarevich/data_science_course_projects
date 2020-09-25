@@ -4,4 +4,5 @@ To protect theclients data of the insurance company, data conversion methods hav
 
 It would be difficult to recover personal information from them.
 
-Result - The algorithm of the linear regression model was checked by an invertible matrix and R2.
+Result:
+- The algorithm of the linear regression model was checked by an invertible matrix and R2.
