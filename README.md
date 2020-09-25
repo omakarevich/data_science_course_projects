@@ -1,5 +1,5 @@
 Here is my projects from online course "Data science"
-1) [Tariffs recommendation](https://github.com/omakarevich/data_science_course_projects/tree/master/tariffs_recommendation) 
+1) [Tariffs recommendation](https://github.com/omakarevich/data_science_course_projects/tree/master/tariffs recommendation) 
 - my first little project. Only to understand something about DS.
 2) [Bank customers churn](https://github.com/omakarevich/data_science_course_projects/tree/master/bank_customers_churn) 
 
