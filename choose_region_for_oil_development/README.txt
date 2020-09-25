@@ -1,4 +1,4 @@
-Decide where to drill the new well: choosу the region where mining will bring the most profit with the least risk of loss.
+Decide where to drill the new well: choose the region where mining will bring the most profit with the least risk of loss.
 
 Collected characteristics of oil sample for wells: oil quality and volume of its reserves in three regions. The characteristics for each well in the region are already known.
 
