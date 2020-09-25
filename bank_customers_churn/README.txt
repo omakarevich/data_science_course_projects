@@ -2,10 +2,10 @@ Analysis of outward bank clients for strategy: retention old client's or involve
 
 Clients started leaving the bank every month.
 
-The probability of leaving is predicted.
+Need to predict the probability of leaving.
 
-A model with an extremely large value of the F1-measure(0.59) was built with subsequent verification on a test sample. 
+Result:
 
-Also AUC-ROC measured and correlated with F1-measure.
+- A model with an extremely large value of the F1-measure(0.59) was built with subsequent verification on a test sample. 
 
-Supervised learning. Dealing with unbalanced data.
+- Also AUC-ROC measured and correlated with F1-measure.
