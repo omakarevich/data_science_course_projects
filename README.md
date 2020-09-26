@@ -7,7 +7,7 @@ Here is my projects from online course "Data science"
 - Supervised learning, unbalanced data, F1, AUC-ROC, DecisionTreeClassifier, LogisticRegression, RandomForestClassifier.
 3) [Choose region for oil development](https://github.com/omakarevich/data_science_course_projects/tree/master/choose_region_for_oil_development) 
 - Сhoosе the region where mining will bring the most profit with the least risk of loss.
-- Ыupervised learning, RMSE, confidence interval, Bootstrap, StandardScaler, LinearRegression.
+- Supervised learning, RMSE, confidence interval, Bootstrap, StandardScaler, LinearRegression.
 4) [Prototype model for a metalworking company](https://github.com/omakarevich/data_science_course_projects/tree/master/prototype_model_for_a_metalworking_company) 
 - Predict the recovery rate of gold from gold ore
 - Supervised learning, matplotlib, sMAPE, DecisionTreeRegressor, LinearRegression, RandomForestRegressor.
