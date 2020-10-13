@@ -11,17 +11,20 @@ Here is my projects from online course "Data science"
 4) [Car price prediction](https://github.com/omakarevich/data_science_course_projects/tree/master/car_price_prediction) 
 - Determine the market price of the car.
 - Supervised learning, gradient descent, numerical analysis, RandomForestRegressor, DecisionTreeRegressor, LGBMRegressor.
-5) [Predicting taxi orders](https://github.com/omakarevich/data_science_course_projects/tree/master/predicting_taxi_orders) 
+5) [Age determination based on photograph](https://github.com/omakarevich/data_science_course_projects/tree/master/age_determination_based_on_photograph)
+- Computer vision system for processing customer photos.
+- Supervised learning, tensorflow.keras, MAE, Adam, ImageDataGenerator.
+6) [Predicting taxi orders](https://github.com/omakarevich/data_science_course_projects/tree/master/predicting_taxi_orders) 
 - Predict the number of taxi orders for the next hour
 - Supervised learning, statsmodels, seasonal_decompose,  RandomForestRegressor, LinearRegression, DecisionTreeRegressor, LGBMRegressor.
-6) [Bank customers churn](https://github.com/omakarevich/data_science_course_projects/tree/master/bank_customers_churn) 
+7) [Bank customers churn](https://github.com/omakarevich/data_science_course_projects/tree/master/bank_customers_churn) 
 - Analysis of outward bank clients
 - Supervised learning, unbalanced data, F1, AUC-ROC, DecisionTreeClassifier, LogisticRegression, RandomForestClassifier.
-7) [Algorithm for data protection](https://github.com/omakarevich/data_science_course_projects/tree/master/algorithm_for_data_protection)
+8) [Algorithm for data protection](https://github.com/omakarevich/data_science_course_projects/tree/master/algorithm_for_data_protection)
 - Data transformation to protect the personal information of the clients of the insurance company, very short project  
 - Supervised learning, r2_score, matrix, LinearRegression.
-8) [Tariffs recommendation](https://github.com/omakarevich/data_science_course_projects/tree/master/tariffs_recommendation) 
+9) [Tariffs recommendation](https://github.com/omakarevich/data_science_course_projects/tree/master/tariffs_recommendation) 
 - Develop a system that can analyze customer behavior and offer users a new tariff
 - my first little project. Only to understand something about DS.
-9) To be continied...
+10) To be continied...
 
